@@ -1,0 +1,3 @@
+/home/georgy/opp/pract6/cmake-build-debug/CMakeFiles/pract6.dir
+/home/georgy/opp/pract6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/georgy/opp/pract6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
