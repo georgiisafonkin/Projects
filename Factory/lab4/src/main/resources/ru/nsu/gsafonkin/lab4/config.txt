@@ -1,0 +1,9 @@
+EngineStorageCapacity=10
+BodyStorageCapacity=20
+AccessoriesStorageCapacity=15
+CarsStorageCapacity=10
+AccessoriesSuppliersNumber=5
+BodySuppliersNumber=1
+EngineSuppliersNumber=1
+WorkersNumber=5
+DealersNumber=1
